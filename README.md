@@ -175,6 +175,6 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 Your Name
-GitHub: [https://github.com/your-username](https://github.com/Prateekwaghmare)
+GitHub: https://github.com/Prateekwaghmare
 
 ---
