@@ -175,8 +175,8 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 
-💻 GitHub: Prateek Waghmare
-🔗 LinkedIn: Prateek Waghmare
+💻 GitHub: [Prateek Waghmare]
+🔗 LinkedIn: [Prateek Waghmare]
 
 ---
 ## 🌐 Live Demo
@@ -190,6 +190,6 @@ This project is open-source and available under the MIT License.
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="45%" />
-  <img src="assets/screenshot2.png" width="45%" />
+  <img src="assets/screenshot 1.png" width="45%" />
+  <img src="assets/screenshot 2.png" width="45%" />
 </p>
