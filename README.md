@@ -175,9 +175,8 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 
-💻 GitHub: [Prateek Waghmare]
-🔗 LinkedIn: [Prateek Waghmare]
-
+- 💻 GitHub: [Prateek Waghmare](https://github.com/Prateekwaghmare)
+- 🔗 LinkedIn: [Prateek Waghmare](https://www.linkedin.com/in/prateekwaghmare/)
 ---
 ## 🌐 Live Demo
 
