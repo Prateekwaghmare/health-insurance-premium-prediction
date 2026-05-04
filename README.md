@@ -174,7 +174,22 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/Prateekwaghmare
+
+💻 GitHub: Prateek Waghmare
+🔗 LinkedIn: Prateek Waghmare
 
 ---
+## 🌐 Live Demo
+
+🚀 Experience the app in real-time:
+
+🔗 **[Launch App](https://prateek-health-insurance-premium-prediction.streamlit.app/)**
+
+> Predict health insurance premiums instantly using ML 🚑📊
+---
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="assets/screenshot1.png" width="45%" />
+  <img src="assets/screenshot2.png" width="45%" />
+</p>
