@@ -189,5 +189,5 @@ This project is open-source and available under the MIT License.
 ---
 ## 📸 App Screenshots
 
-<img src="assets/screenshot1.png">
-<img src="assets/screenshot2.png">
+<img src="assets/Screenshot1.png">
+<img src="assets/Screenshot2.png">
