@@ -184,7 +184,7 @@ This project is open-source and available under the MIT License.
 
 🔗 **[Launch App](https://prateek-health-insurance-premium-prediction.streamlit.app/)**
 
-> Predict health insurance premiums instantly using ML 🚑📊
+> Predict health insurance premiums instantly using ML 🚑 📊
 ---
 ## 📸 App Screenshots
 
